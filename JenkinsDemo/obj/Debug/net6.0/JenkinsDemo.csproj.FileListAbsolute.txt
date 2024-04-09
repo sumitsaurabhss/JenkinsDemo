@@ -1,0 +1,14 @@
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\bin\Debug\net6.0\JenkinsDemo.exe
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\bin\Debug\net6.0\JenkinsDemo.deps.json
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\bin\Debug\net6.0\JenkinsDemo.runtimeconfig.json
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\bin\Debug\net6.0\JenkinsDemo.dll
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\bin\Debug\net6.0\JenkinsDemo.pdb
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\JenkinsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\JenkinsDemo.AssemblyInfoInputs.cache
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\JenkinsDemo.AssemblyInfo.cs
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\JenkinsDemo.csproj.CoreCompileInputs.cache
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\JenkinsDemo.dll
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\refint\JenkinsDemo.dll
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\JenkinsDemo.pdb
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\JenkinsDemo.genruntimeconfig.cache
+C:\Users\sumitsaurabh\Desktop\JenkinsDemo\JenkinsDemo\obj\Debug\net6.0\ref\JenkinsDemo.dll
